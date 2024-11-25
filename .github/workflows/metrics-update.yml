@@ -24,5 +24,9 @@ jobs:
       # Checks-out latest metrics repo
       - uses: lowlighter/metrics@latest
         with:
+          base: header, activity
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
+          plugin_languages: yes
+          config_order: base.header, base.activity, isocalendar, languages
+          config_display: columns
