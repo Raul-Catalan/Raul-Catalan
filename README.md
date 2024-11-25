@@ -1,5 +1,5 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+<picture >
+  <img align="center" src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 - 👋 Hi, I’m @Raul-Catalan
