@@ -29,4 +29,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           config_order: base.header, base.activity, isocalendar, languages
-          config_display: columns
