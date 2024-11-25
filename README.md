@@ -1,6 +1,5 @@
 <div align="center">
-  
-<h1>Hi, I'm @Raul-Catalan</h1>
+<h1>Hi, I'm Raul Catalan</h1>
 <br>
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
