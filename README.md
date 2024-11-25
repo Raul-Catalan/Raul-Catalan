@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
 
 - 👋 Hi, I’m @Raul-Catalan
 - 👀 I’m interested in Web Development and Software Development
