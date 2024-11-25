@@ -6,10 +6,6 @@ name: Metrics
 on:
   #Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Run the workflow when pushing on master/main
-  push:
-    branches: [ "master", "main" ]
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -19,16 +15,15 @@ jobs:
   github-metrics:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
     environment:
       name: production
-
     permissions:
       contents: write
-      
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out latest metrics repo
       - uses: lowlighter/metrics@latest
         with:
+          base: ""
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
