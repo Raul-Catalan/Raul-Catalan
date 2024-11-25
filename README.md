@@ -1,6 +1,11 @@
+<div align="center">
+  
+<h1>Hi, I'm @Raul-Catalan</h1>
+<br>
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
 </p>
+</div>
 
 - 👋 Hi, I’m @Raul-Catalan
 - 👀 I’m interested in Web Development and Software Development
