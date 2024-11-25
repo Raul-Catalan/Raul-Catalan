@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 - 👋 Hi, I’m @Raul-Catalan
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now)
