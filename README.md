@@ -1,6 +1,6 @@
-<picture align="center">
+<p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</p>
 
 - 👋 Hi, I’m @Raul-Catalan
 - 👀 I’m interested in Web Development and Software Development
