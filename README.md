@@ -5,21 +5,20 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </p>
 </div>
-<section>
+<section align="center">
   <h2>My Tech Stack</h2>
-  <p align="center">
-  <a href="">
-    <p>Languages</p>
+  <div>
+    <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,bash,c,cpp" />
-    <p>Frameworks and Libraries</p>
+    <h3>Frameworks and Libraries</h3>
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,docker,express,materialui,npm,pnpm" />
-    <p>IDEs, Tools, and Operating Systems</p>
-    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,vim,linux,ubuntu,windows,obisidian,postman,githubactions" />
-    <p>Databases and Services</p>
+    <h3>IDEs, Tools, and Operating Systems</h3>
+    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,vim,linux,ubuntu,windows,obsidian,postman,githubactions" />
+    <h3>Databases and Services</h3>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,firebase,vercel" />
-  </a>
-</p>
+  </div>
 </section>
+
 - 👋 Hi, I’m @Raul-Catalan
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now)
