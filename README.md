@@ -1,7 +1,7 @@
 <div>
   <h1>Hi, I'm Raul Catalan</h1>
   <div>
-    <h3>About Me</h3>
+    <h3 align="center">About Me</h3>
     <p>I'm a Computer Science graduate aspiring to become a full stack developer.</p>
     <p>I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now).</p> 
     <p>I’m looking for open source projects to contribute to that I am passionate about or maybe create some mods or tools for video games I play.</p>
