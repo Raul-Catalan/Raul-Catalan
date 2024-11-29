@@ -6,9 +6,12 @@
     <p>I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now).</p> 
     <p>I’m looking for open source projects to contribute to that I am passionate about or maybe create some mods or tools for video games I play.</p>
   </div>
-  <p align="center">
+  <details align="center">
+    <summary>
+      <h2>My Metrics</h2>
+    </summary>
     <img src="/github-metrics.svg" alt="Metrics">
-  </p>
+  </details>
 <details align="center">
   <summary>    
     <h2>My Tech Stack</h2>
