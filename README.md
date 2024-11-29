@@ -1,12 +1,18 @@
-<div align="center">
-<h1>Hi, I'm Raul Catalan</h1>
-<br>
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics">
-</p>
-</div>
-<section align="center">
-  <h2>My Tech Stack</h2>
+<div>
+  <h1>Hi, I'm Raul Catalan</h1>
+  <div>
+    <h3>About Me</h3>
+    <p>I'm a Computer Science graduate aspiring to become a full stack developer.</p>
+    <p>I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now).</p> 
+    <p>I’m looking for open source projects to contribute to that I am passionate about or maybe create some mods or tools for video games I play.</p>
+  </div>
+  <p align="center">
+    <img src="/github-metrics.svg" alt="Metrics">
+  </p>
+<details align="center">
+  <summary>    
+    <h2>My Tech Stack</h2>
+  </summary>
   <div>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,bash,c,cpp" />
@@ -17,15 +23,9 @@
     <h3>Databases and Services</h3>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,firebase,vercel" />
   </div>
-</section>
+</details>
 
-- 👋 Hi, I’m @Raul-Catalan
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now)
-- 💞️ I’m looking to collaborate on Open Source Projects or Maybe create some mods or tools for video games
-- 📫 How to reach me: [Heres my LinkedIn - Raul Catalan](https://www.linkedin.com/in/raul-catalan/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love factorio and Monster Hunter
+</div>
 
 <!---
 Raul-Catalan/Raul-Catalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
