@@ -1,26 +1,19 @@
+# Hi, I'm Raul
+I'm currently a **Master's Student** at **ASU** studying **Computer Science** with a focus on web development.
+I am passionate about learning highly technical concepts, and taking the deep dive into topics is what drives me.
+
+I am currently **open to Software Engineering roles**.
+
+[Here's my LinkedIn](https://www.linkedin.com/in/raul-catalan)
+
+## My Tech Stack
 <div>
-  <h1>Hi, I'm Raul Catalan</h1>
-  <div>
-    <h3>ABOUT ME</h3>
-    <p>I'm a Computer Science graduate aspiring to become a full stack developer.</p>
-    <p>I’m currently learning NextJS and Keyboard driven development(Mostly learning intermediate neovim commands and workflows right now).</p> 
-    <p>I’m looking for open source projects to contribute to that I am passionate about or maybe create some mods or tools for video games I play.</p>
-  </div>
-  <details align="center">
-    <summary>
-      <h2>My Metrics</h2>
-    </summary>
-    <img src="/github-metrics.svg" alt="Metrics">
-  </details>
-    <h2>My Tech Stack</h2>
-  <div>
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,bash,c,cpp" />
-    <h3>Frameworks and Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,docker,express,materialui,npm,pnpm" />
-    <h3>IDEs, Tools, and Operating Systems</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,vim,linux,ubuntu,windows,obsidian,postman,githubactions" />
-    <h3>Databases and Services</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,firebase,vercel" />
-  </div>
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash,c,cpp" />
+  <h3>Frameworks and Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,docker,express,materialui,npm,pnpm" />
+  <h3>IDEs, Tools, and Operating Systems</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,vim,linux,ubuntu,windows,obsidian,postman,githubactions" />
+  <h3>Databases and Services</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,firebase,vercel" />
 </div>
