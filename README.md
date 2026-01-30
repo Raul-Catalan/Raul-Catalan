@@ -1,10 +1,10 @@
-# Hi, I'm Raul
+<h1>Hi, I'm Raul</h1>
 I'm currently a **Master's Student** at **ASU** studying **Computer Science** with a focus on web development.
 I am passionate about learning highly technical concepts, and taking the deep dive into topics is what drives me.
 
 I am currently **open to Software Engineering roles**.
 
-[Here's my LinkedIn](https://www.linkedin.com/in/raul-catalan)
+Here's my <a href="https://linkedin.com/in/raul-catalan" target="_blank">LinkedIn</a>
 
 ## My Tech Stack
 <div>
